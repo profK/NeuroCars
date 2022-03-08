@@ -1,0 +1,116 @@
+fileFormatVersion: 2
+guid: 34a4ef8ac31d241f2924c0def47de53b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    2800000: __AssetImporterPreview
+    3300000: //RootNode
+    4300000: transform14
+    4300002: transform28
+    4300004: loftedSurface3
+    4300006: transform13
+    4300008: transform27
+    4300010: loftedSurface6
+    4300012: transform12
+    4300014: loftedSurface8
+    4300016: transform26
+    4300018: transform11
+    4300020: loftedSurface11
+    4300022: transform25
+    4300024: transform10
+    4300026: loftedSurface14
+    4300028: transform24
+    4300030: transform9
+    4300032: loftedSurface17
+    4300034: transform23
+    4300036: transform8
+    4300038: transform22
+    4300040: loftedSurface21
+    4300042: transform7
+    4300044: loftedSurface23
+    4300046: transform21
+    4300048: transform6
+    4300050: transform20
+    4300052: loftedSurface27
+    4300054: transform5
+    4300056: loftedSurface29
+    4300058: transform19
+    4300060: transform4
+    4300062: transform18
+    4300064: loftedSurface33
+    4300066: transform3
+    4300068: loftedSurface35
+    4300070: transform17
+    4300072: transform2
+    4300074: transform32
+    4300076: loftedSurface39
+    4300078: transform1
+    4300080: transform31
+    4300082: loftedSurface42
+    4300084: transform16
+    4300086: transform30
+    4300088: loftedSurface45
+    4300090: transform15
+    4300092: transform29
+    4300094: loftedSurface48
+    4300096: polySurface1
+    4300098: polySurface2
+    4300100: Track
+    6400000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
